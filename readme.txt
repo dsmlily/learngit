@@ -1,1 +1,2 @@
-this is a file
+Git is a distributed version control system.
+Git is free software

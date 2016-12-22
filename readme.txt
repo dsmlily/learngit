@@ -7,4 +7,5 @@ Creating a secound branch is quick.
 Fast-forward merge.
 off Fast-forward merge. issue fixed.
 this is dev branch.
+the other guy.
 there is the host.

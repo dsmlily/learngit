@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Creating a secound branch is quick.
 Fast-forward merge.
 off Fast-forward merge.
+this is dev branch.
